@@ -1,0 +1,21 @@
+h1{
+	
+		border-left:10px solid navy;
+	}
+	
+	p.content{
+		font-weight: bold;
+		font-size: 18px;
+	}
+	span.IP{
+		color: blue;
+		font-size: 120%;
+	}
+	span{
+		color:red;
+		font-size:120%;
+		
+	}
+	p#footer{
+		font-size:80%
+	}
