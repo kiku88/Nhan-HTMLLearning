@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Form</title>
+<link rel="stylesheet" type="text/css" href="ex013.css">
+</head>
+<body>
+<img src="img/bg1.gif">
+<div>
+<form action = "https://vti.com.vn">
+<h2>アンケート</h2>
+<dl>
+	<dt>講義についてのアンケート</dt>
+		<dd>氏名</dd>
+		<input type = "text" name = "name">
+		<dd>住所</dd>
+		<input type ="text" name = "address">
+		<dd>性別</dd>
+		<input type = "radio" name = "sex" value = "M">男
+		<input type = "radio" name = "sex" value = "F">女
+	<dt>講座名</dt>
+		<select name = "curriculum">
+		<option value="database">データベース基礎</option>
+		<option value="network">ネットワーク基礎</option>
+		<option value="java">Java基礎</option>
+		</select>
+	<dt>感想</dt>
+	 <textarea name="impresssions" >
+	 </textarea>
+</dl>
+<button type = "submit" >送信</button>
+</form>
+</div>
+</body>
+</html>

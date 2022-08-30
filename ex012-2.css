@@ -1,0 +1,15 @@
+h1{
+	border-left:10px solid #000080;
+	
+}
+*{
+	margin-left: 30px;
+}
+th{
+	background-color: #a4f5ff;
+}
+
+th,td{
+	border:1px solid black;
+	padding: 5px 20px;
+}

@@ -1,0 +1,10 @@
+h1{
+	border-left:10px solid #000080;
+	
+}
+th,td{
+	border:1px solid black;
+}
+p#footer{
+	text-align:center;
+}

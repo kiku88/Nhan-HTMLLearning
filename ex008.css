@@ -1,0 +1,16 @@
+*{
+margin:0;
+padding:0;
+}
+h2{
+	color:#00f;
+	border:5px solid #00f;
+	padding:5px 0px 5px 10px;
+}
+div.content{
+	margin: 5px 20px 50px 20px;
+}
+p.config{
+	color:red;
+	white-space:pre;
+}

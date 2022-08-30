@@ -1,0 +1,17 @@
+h1{
+	margin:30px;
+}
+li{
+		display: inline-block;
+		width: 100px;
+		background-color:#fff;
+		text-align:center;
+		border:1px solid blue;
+}
+ul{
+	padding: 5x;
+	background-color:#758c8e;
+}
+p{
+	text-align:center;
+}

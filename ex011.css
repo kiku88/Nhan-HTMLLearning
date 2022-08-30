@@ -1,0 +1,12 @@
+h1{
+	border-left:10px solid #000080;
+}
+ol,ul,dl{
+	border:1px solid black;
+}
+div{
+	margin-top: 50px;
+}
+p#footer{
+	text-align: center;
+}

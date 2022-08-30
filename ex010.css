@@ -1,0 +1,22 @@
+*{
+margin:0;
+padding:0;
+}
+h2{
+	color:#00f;
+	border:5px solid #00f;
+	padding:5px 0px 5px 10px;
+	background-color: #ccf;
+}
+div.content{
+	margin: 5px 20px 50px 20px;
+	background-color:#ddd;
+}
+p.config{
+	color:red;
+	white-space:pre;
+	background-color:#ddd;
+}
+body{
+	background-image: url('img/bg1.gif');
+}
